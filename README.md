@@ -1,6 +1,5 @@
 # mocha-chai-mongoose
 
-![Node.js CI](https://github.com/DigiPie/mocha-chai-mongoose/workflows/Node.js%20CI/badge.svg)
 
 ## Introduction
 
@@ -24,19 +23,19 @@ View the [Test Plan](TEST_PLAN.md) for more information.
 
 ### Releases
 
-**Stable release:** [`v0.1.3`](https://github.com/DigiPie/mocha-chai-mongoose/releases)
+**Stable release:** [`v0.1.3`](https://github.com)
 
 - Implementation of `GET`, `POST`, `PUT` and `DELETE` routes
 - 16 unit test cases testing the API routes individually
 - 6 integration test cases testing route pairs (e.g. `GET` and `PUT`)
 
-**Current release:** [`v0.1.3`](https://github.com/DigiPie/mocha-chai-mongoose/releases)
+**Current release:** [`v0.1.3`](https://github.com/)
 
-This project will not be frequently worked on beyond [`v0.1.0`](https://github.com/DigiPie/mocha-chai-mongoose/releases).
+This project will not be frequently worked on beyond [`v0.1.0`](https://github.com).
 
 ### Contributing
 
-If you have any suggestions, bugs to report or would like to contribute to this project, feel free to create an [Issue](https://github.com/DigiPie/mocha-chai-mongoose/issues) or [Pull Request](https://github.com/DigiPie/mocha-chai-mongoose/pulls).
+If you have any suggestions, bugs to report or would like to contribute to this project, feel free to create an [Issue](https://github.com/) or [Pull Request](https://github.com/).
 
 ## Background info
 
