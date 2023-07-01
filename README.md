@@ -1,5 +1,3 @@
-# mocha-chai-mongoose
-
 
 ## Introduction
 
