@@ -1,9 +1,5 @@
-export {};
-
 process.env.NODE_ENV = "test";
-
 const { find } = require("lodash");
-
 const mongoose = require("mongoose");
 require("../src/models/Product");
 const Product = mongoose.model("products");
